@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>  </title>
+<style>
+h1{
+color:white;
+font-size:35px;
+}
+a{
+color:white;
+font-size:25px;
+}
+a:hover{
+color:gold;
+}
+div{
+color:white;
+font-size:20px;
+}
+div #one{
+color:gold;
+}
+div #two{
+color:gold;
+font-size:40px;
+}
+</style>
+</head>
+<body style="background-color:black">
+<center>
+<h1> <B><i>Prabhas</i></B> </h1>
+</center>
+<img src="prabha.png" height="500px" width="100%">
+<center>
+<a href=""> About</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href=""> Movies</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href=""> Awards</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</center>
+<br>
+<marquee>
+<img src="1.png" height="350px width="300px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OvqnNKzQ-J_vQ_CRE-a0E3kfhw5ezP-ILw&s" height="350px width="700px">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJjF20QvbUFPP3CVUA3WLTMA-yDNR2XOP8A&s" height="350px width="300px">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-7FSYPGnOBnQWdybA_5lMZ2H06Mb9E81Mw&s" height="350px width="300px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQozY01lXR5LWrp0zBOmbeD0kT0CfIQDw6aA&s" height="350px" width="300px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP3AA-63yZJ9Z3bENa3lFeaBXf7Ouz2TVJA&s" height="350px" width="300px">
+</marquee>
+<div>
+<h1 id="one"> About</h1>
+<p> Prabhas whose full name is Uppalapati Venkata Suryanarayana Prabhas Raju, is one of the most popular actor in Indian cinema. He mainly works in Telugu films and became internationally famous through the blockbluster movie "Bahubali: The Beginning" and it's sequel "Bahubali 2: The Conclusion".
+<br>
+<br>
+He was born on October 23, 1979, in Chennai and raised in Hyderabad. Prabhas made his acting debut with the Telugu film Eeswar. Over the years, he became known for his action movies, stylish screen presence, and humble personality.
+<br>
+<br>
+Prabhas is admired by millions of fans for his dedication and hard work. His role in the Baahubali series made him a pan-India superstar and one of the highest-paid actors in India.
+<center>
+<h1 id="two">  Prabhas Movies</h1> 
+</center>
+<img src="download1.jpg" height="425px" width="300px">
+<img src="download2.jpg" height="425px" width="300px">
+<img src="download3.jpg" height="425px" width="300px">
+<img src="download4.jpg" height="425px" width="300px">
+<img src="download5.jpg" height="425px" width="300px">
+<img src="download6.jpg" height="425px" width="300px">
+<img src="download7.jpg" height="425px" width="300px">
+<img src="download8.jpg" height="425px" width="300px">
+<center>
+<p> Created with Love for Prabhas ❤️</p>
+</center>
+</div>
+</body>
+</html>
